@@ -4,3 +4,8 @@ REQUIEREMENT :
 KSP-RO - Realism Overhaul : https://github.com/KSP-RO/RealismOverhaul/releases/tag/v14.20.0.0
 
 Price calculations are base with the downloadable craft in the github file
+
+
+MADE BY:
+Rohat UCAR
+Ayoub DUSSAP
